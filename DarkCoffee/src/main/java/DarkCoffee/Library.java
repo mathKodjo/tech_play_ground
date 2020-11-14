@@ -7,4 +7,8 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+    
+    public int someLibraryMethod() {
+        return 10;
+    }
 }
